@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jyotiraditya_06" target="blank"><img src="https://img.shields.io/twitter/follow/jyotiraditya_06?logo=twitter&style=for-the-badge" alt="jyotiraditya_06" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development and Python**
+- 🔭 I’m currently working on **Android App Development and UI/UX Design**
 
-- 🌱 I’m currently learning **Full Stack Web Dev**
+- 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to for an **INTERSHIP based on Web Dev**
+- 👯 I’m looking to for an **INTERSHIP based on App Development**
 
 - 🤝 I’m looking for help with **JavaScript, MERN stuff**
 
