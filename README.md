@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Dev**
 
-- 👯 I’m looking to for an **INTERSHIP based on Web Dev**
+- 👯 I’m looking to for an **INTERSHIP**
 
 - 🤝 I’m looking for help with **JavaScript, MERN stuff**
 
